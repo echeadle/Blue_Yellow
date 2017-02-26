@@ -1,0 +1,3 @@
+[run]
+source = blueyellow
+omit = blueyellow/test*
